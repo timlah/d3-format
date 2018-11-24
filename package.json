@@ -12,7 +12,6 @@
   "main": "src/index.js",
   "module": "src/index.js",
   "scripts": {
-    "pretest": "rollup -c",
     "test": "tape 'test/**/*-test.js' && eslint src test"
   },
   "devDependencies": {
