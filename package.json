@@ -1,5 +1,6 @@
 {
   "name": "d3-format-mod",
+  "private": "true",
   "version": "1.0.0",
   "description": "Format numbers for human consumption.",
   "keywords": [
